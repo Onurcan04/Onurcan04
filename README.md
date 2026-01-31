@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 Visit my LinkedIn account. [www.linkedin.com/in/onur-can-akkafa-88334030a](www.linkedin.com/in/onur-can-akkafa-88334030a)
+- 👨‍💻 Visit my LinkedIn account. [www.linkedin.com/in/onur-can-akkafa-88334030a](https://www.linkedin.com/in/onurcanakk/)
 
 - 💬 Ask me about **react, nextJs, laravel, postgreSQL**
 
